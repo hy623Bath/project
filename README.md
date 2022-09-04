@@ -1,5 +1,6 @@
 # project
 Code appendix
+
 This repository contains the code that accompanies the project "Use of network analysis to process appliances product reviews on Amazon".
 
 ‘Amazon_Appliances_Data_Analysis.ipynb‘, which can be viewed through the Jupyter Notebook, contains the code used to generate the results and graphs shown in the Data Analysis section of Chapter 3, Methodology, of the project.
